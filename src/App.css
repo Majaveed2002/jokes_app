@@ -1,0 +1,11 @@
+.login-heading {
+  font-size: 1.5rem;
+}
+
+.login-btn {
+  width: 100%;
+}
+
+.loading-container {
+  min-height: 70vh;
+}
