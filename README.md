@@ -6,11 +6,11 @@
 # Dependencies
 -This project utilizes the following dependencies:
 
-*React: A JavaScript library for building user interfaces.
-*React Router DOM: Declarative routing for React.
-*Bootstrap: A front-end framework for building responsive and mobile-first websites.
-*react-loading-spinner: A simple loading spinner component for React.
-*useState and useEffect hooks from React for managing component state and side effects.
+- React: A JavaScript library for building user interfaces.
+- React Router DOM: Declarative routing for React.
+- Bootstrap: A front-end framework for building responsive and mobile-first websites.
+- react-loading-spinner: A simple loading spinner component for React.
+- useState and useEffect hooks from React for managing component state and side effects.
 
 # Installation
 - git clone https://github.com/Majaveed2002/jokes_app.git
